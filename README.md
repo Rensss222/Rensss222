@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arya 
-- 👀 I’m interested in Mobile Developers
+- 👀 I’m interested in Game Developers
 - 🌱 I’m currently learning in Java
 - 💞️ I’m looking to collaborate on Programmer in Mobile Developer
 - 📫 How to reach me IG : arst_030
